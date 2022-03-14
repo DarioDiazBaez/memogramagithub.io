@@ -1,11 +1,11 @@
 let cartas = new Array( 
-    {nombre: '🤑', seleccion: false}, {nombre: '🏇', seleccion: false}, 
-    {nombre: '🤬', seleccion: false}, {nombre: '🎅', seleccion: false}, 
-    {nombre: '🥶', seleccion: false}, {nombre: '💩', seleccion: false}, 
+    {nombre: '😇', seleccion: false}, {nombre: '😎', seleccion: false}, 
+    {nombre: '😷', seleccion: false}, {nombre: '🎅', seleccion: false}, 
+    {nombre: '😈', seleccion: false}, {nombre: '💩', seleccion: false}, 
     {nombre: '⏰', seleccion: false}, {nombre: '👀', seleccion: false}, 
-    {nombre: '🤑', seleccion: false}, {nombre: '🏇', seleccion: false}, 
-    {nombre: '🤬', seleccion: false}, {nombre: '🎅', seleccion: false}, 
-    {nombre: '🥶', seleccion: false}, {nombre: '💩', seleccion: false}, 
+    {nombre: '😇', seleccion: false}, {nombre: '😎', seleccion: false}, 
+    {nombre: '😷', seleccion: false}, {nombre: '🎅', seleccion: false}, 
+    {nombre: '😈', seleccion: false}, {nombre: '💩', seleccion: false}, 
     {nombre: '⏰', seleccion: false}, {nombre: '👀', seleccion: false} );
   
   let game = true;        
